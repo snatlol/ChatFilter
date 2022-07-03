@@ -1,0 +1,14 @@
+#Enable/disable the Chat Filter
+Enabled: true
+
+#List of words to filter
+#The words will be replaced with a message.
+Words:
+  - "fuck"
+  - "bitch"
+  - "shit"
+
+
+#Choose message that will be displayed via someone saying a blacklisted word.
+Message:
+  "&c&lYou cannot use that word!"

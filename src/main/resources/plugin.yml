@@ -1,0 +1,6 @@
+name: ChatFilter
+version: '${project.version}'
+main: com.snat.chatfilter.Filter
+api-version: 1.13
+authors: [ snat ]
+description: A plugin to censor out words!
